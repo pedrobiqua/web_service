@@ -1,0 +1,8 @@
+[requires]
+crowcpp-crow/1.1.0
+libcurl/8.6.0
+[generators]
+CMakeDeps
+CMakeToolchain
+[layout]
+cmake_layout
